@@ -1,0 +1,8 @@
+openai
+faster-whisper
+pretty_midi
+streamlit
+sounddevice
+numpy
+scipy
+python-dotenv 
